@@ -10,6 +10,8 @@ My name is Anthony Chen and I am an undergraduate student studying mathematics, 
   - A 2D horror game based on the goatman urban legend. Features basic moving/jumping physics and collisions, a day/night/blood moon timed cycle, and the titular goatman. Built using Java.
 - ProtoPlant (2018)
   - An agricultural robot designed to measure plant statistics such as soil temperature, light, and humidity. Transmits information to a companion website that displays data in graphs. Built using Arduino, Javascript, and HTML/CSS.
+- Chinese Checkers Bot (2019)
+  - A bot that is able to make smart decisions to play chinese checkers. Features server-client interaction, smart board analysis, and best move calculation. Built in Java.
 - Untitled Maze Game (2019)
   - A 3D sci-fi horror game where the player has to find and unlock the exit in a spaceship maze before the alien catches them. Features 3D ray tracing, random maze generation, A* pathfinding algorithms, and server-client interaction. Built using Java.
 
