@@ -1,8 +1,6 @@
 ### Hello there 👋
 My name is Anthony Chen and I am an undergraduate student studying mathematics, statistics, and computer science at the University of Toronto.
 
-![A github stats](https://github-readme-stats.vercel.app/apiusername=anthony-chen-ca&show_icons=true&theme=default) 
-
 <!--
 **anthony-chen-ca/anthony-chen-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
