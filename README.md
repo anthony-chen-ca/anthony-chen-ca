@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-My name is Anthony Chen and I am an undergraduate student studying computer science and mathematics at the University of Toronto.
+I'm an undergraduate student studying computer science and mathematics at the University of Toronto.
 
 <h2 align="left">Personal Projects on GitHub</h2>
 
