@@ -3,7 +3,7 @@ My name is Anthony Chen and I am an undergraduate student studying computer scie
 
 <h2 align="left">Personal Projects on GitHub</h2>
 
-<h3 align="left">🎲 Bargain Bin Quizlet (BBQ) </h3>
+<h3 align="left">📚 Bargain Bin Quizlet (BBQ) </h3>
 
 A flashcard study application where the user can signup/login, create/edit/delete flashcards, search for public flashcard sets, study from a flashcard set, and take a quiz generated from a flashcard set. Worked in a team of 8 members. Built using Java.
 
