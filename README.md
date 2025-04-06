@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-I'm an undergraduate student studying computer science and mathematics at the University of Toronto. Passionate about software development, AI/ML, and anything tech-related :)
+I'm an undergraduate student studying computer science, artificial intelligence, and mathematics at the University of Toronto. Passionate about software development, AI/ML, and anything tech-related :)
 
 <h2 align="left">Personal Projects on GitHub</h2>
 
