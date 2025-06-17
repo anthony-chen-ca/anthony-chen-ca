@@ -21,25 +21,25 @@ A student-led university project built in collaboration with a startup aimed at 
 ## 🛠️ Other Projects
 
 #### 📚 Bargain Bin Quizlet (CSC207)
-A Java-based flashcard study app with user authentication, flashcard editing, public set search, and quizzes.  
-Created in a team of 8 as part of CSC207 Software Design.
+- A Java-based flashcard study app with user authentication, flashcard editing, public set search, and quizzes.  
+- Created in a team of 8 as part of CSC207 Software Design.
 
 #### 🌱 ProtoPlant  
-An Arduino-powered agricultural robot that monitors plant health (soil temp, humidity, light) and displays data via a web dashboard.  
-Built during a high school hackathon using Python, Arduino, JavaScript, and HTML/CSS.
+- An Arduino-powered agricultural robot that monitors plant health (soil temp, humidity, light) and displays data via a web dashboard.  
+- Built during a high school hackathon using Python, Arduino, JavaScript, and HTML/CSS.
 
 #### 🎲 Chinese Checkers AI  
-A high school project where I implemented an AI for playing Chinese Checkers using board evaluation and best-move selection in Java.
+- A high school project where I implemented an AI for playing Chinese Checkers using board evaluation and best-move selection in Java.
 
 #### 👽 Untitled Maze Game  
-A 3D sci-fi horror game featuring raycasting, A* pathfinding, and a networked multiplayer mode.  
-Built in Java using my own maze and rendering engine.
+- A 3D sci-fi horror game featuring raycasting, A* pathfinding, and a networked multiplayer mode.  
+- Built in Java using my own maze and rendering engine.
 
 #### 💠 Square Run  
-A 2D rhythm game inspired by Geometry Dash, complete with custom visuals, music, and procedurally generated levels.  
-Built in Python using pygame.
+- A 2D rhythm game inspired by Geometry Dash, complete with custom visuals, music, and procedurally generated levels.  
+- Built in Python using pygame.
 
 #### 🐐 Goatman's Game  
-A horror-themed 2D platformer featuring a timed day/night cycle and spooky lore. Built in Java during high school.
+- A horror-themed 2D platformer featuring a timed day/night cycle and spooky lore. Built in Java during high school.
 
 Anyways, thanks for stopping by! Feel free to check out my repos or reach out if you're interested in collaboration. 😎👍
