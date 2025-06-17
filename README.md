@@ -15,7 +15,7 @@ A personal machine learning system focused on predicting and recommending villag
 ### 📷 Cilindir (CSC301)
 A student-led university project built in collaboration with a startup aimed at improving remote collaboration using immersive VR and 3D reconstruction.
 - Collaborated with a team of 7 across three subteams: pose estimation, 3D reconstruction, and Unreal Engine.
-- On the 3D reconstruction team, I implemented a pipeline that transformed camera-based pose data into realistic 3D human models using [PiFuHD](https://shunsukesaito.github.io/PIFuHD/).
+- On the 3D reconstruction team, I implemented a pipeline that transformed camera-based pose data into realistic 3D human models using PIFuHD.
 - The final goal: allow users to interact in virtual meetings as lifelike avatars rather than flat video tiles.
 
 ## 🛠️ Other Projects
