@@ -1,28 +1,45 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-I'm an undergraduate student studying computer science, artificial intelligence, and mathematics at the University of Toronto. Passionate about software development, AI/ML, and anything tech-related :)
 
-<h2 align="left">Personal Projects on GitHub</h2>
+I'm a Computer Science graduate from the University of Toronto, passionate about artificial intelligence, machine learning, and data analysis. Below are some of the projects I've enjoyed working on:
 
-<h3 align="left">📚 Bargain Bin Quizlet (BBQ) </h3>
+---
 
-A flashcard study application where the user can signup/login, create/edit/delete flashcards, search for public flashcard sets, study from a flashcard set, and take a quiz generated from a flashcard set. Worked in a team of 8 members. Built using Java.
+## 🌟 Featured Projects
 
-<h3 align="left">👽 Untitled Maze Game</h3>
+### 🏝️ Animal Crossing Villager Popularity Prediction & Recommender
+A personal machine learning system focused on predicting and recommending villagers in Animal Crossing: New Horizons.
+- Built a model to predict villager popularity using both categorical features and CLIP-based visual embeddings.
+- Implemented a similarity-based recommender that lets users input a few favorite villagers and get tailored suggestions.
+- Uses a custom dataset enriched with image features and fan popularity poll data.
 
-A 3D sci-fi horror game where the player has to find and unlock the exit in a spaceship maze before the alien catches them. Features 3D ray tracing, random maze generation, A* pathfinding algorithms, and server-client interaction. Built using Java.
+### 📷 Cilindir (CSC301)
+A student-led university project built in collaboration with a startup aimed at improving remote collaboration using immersive VR and 3D reconstruction.
+- Collaborated with a team of 7 across three subteams: pose estimation, 3D reconstruction, and Unreal Engine.
+- On the 3D reconstruction team, I implemented a pipeline that transformed camera-based pose data into realistic 3D human models using [PiFuHD](https://shunsukesaito.github.io/PIFuHD/).
+- The final goal: allow users to interact in virtual meetings as lifelike avatars rather than flat video tiles.
 
-<h3 align="left">🎲 Chinese Checkers AI</h3>
+## 🛠️ Other Projects
 
-An AI that is able to make logical decisions to play chinese checkers. Features server-client interaction, smart board analysis, and best move calculation. Built in Java.
+#### 📚 Bargain Bin Quizlet (CSC207)
+A Java-based flashcard study app with user authentication, flashcard editing, public set search, and quizzes.  
+Created in a team of 8 as part of CSC207 Software Design.
 
-<h3 align="left">🌱 ProtoPlant</h3>
+#### 🌱 ProtoPlant  
+An Arduino-powered agricultural robot that monitors plant health (soil temp, humidity, light) and displays data via a web dashboard.  
+Built during a high school hackathon using Python, Arduino, JavaScript, and HTML/CSS.
 
-An agricultural robot designed to measure plant statistics such as soil temperature, light, and humidity. Transmits information to a companion website that displays and graphs data. Built using Python, Arduino, Javascript, and HTML/CSS.
+#### 🎲 Chinese Checkers AI  
+A high school project where I implemented an AI for playing Chinese Checkers using board evaluation and best-move selection in Java.
 
-<h3 align="left">💠 Square Run</h3>
+#### 👽 Untitled Maze Game  
+A 3D sci-fi horror game featuring raycasting, A* pathfinding, and a networked multiplayer mode.  
+Built in Java using my own maze and rendering engine.
 
-A 2D rhythm game based on Geometry Dash. Features file saving/writing, user interface design, random level generation, funny looking squares, and songs I used to listen to in high school. Built using Python and pygame.
+#### 💠 Square Run  
+A 2D rhythm game inspired by Geometry Dash, complete with custom visuals, music, and procedurally generated levels.  
+Built in Python using pygame.
 
-<h3 align="left">🐐 Goatman's Game</h3>
+#### 🐐 Goatman's Game  
+A horror-themed 2D platformer featuring a timed day/night cycle and spooky lore. Built in Java during high school.
 
-A 2D horror game based on the goatman urban legend. The player controls a human who has to gather rabbits for a ritual before sundown. Features basic moving/jumping physics and collisions, a day/night/blood moon timed cycle, and the titular angry goatman. Built using Java.
+Anyways, thanks for stopping by! Feel free to check out my repos or reach out if you're interested in collaboration. 😎👍
