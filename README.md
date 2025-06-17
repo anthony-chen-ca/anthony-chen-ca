@@ -10,7 +10,7 @@ I'm a Computer Science graduate from the University of Toronto, passionate about
 A personal machine learning system focused on predicting and recommending villagers in Animal Crossing: New Horizons.
 - Built a model to predict villager popularity using both categorical features and CLIP-based visual embeddings.
 - Implemented a similarity-based recommender that lets users input a few favorite villagers and get tailored suggestions.
-- Uses a custom dataset enriched with image features and fan popularity poll data.
+- Wrapped it all in a Streamlit app so users can explore and visualize both predictions and recommendations.
 
 ### 📷 Cilindir (CSC301)
 A student-led university project built in collaboration with a startup aimed at improving remote collaboration using immersive VR and 3D reconstruction.
