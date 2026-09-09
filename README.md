@@ -1,50 +1,97 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 
-I'm a Computer Science graduate from the University of Toronto, passionate about artificial intelligence, machine learning, and data analysis. Below are some of the projects I've enjoyed working on:
+<p align="center">
+  <b>Software Engineer | Backend, Cloud & AI Systems</b>
+</p>
+
+I'm a software engineer and University of Toronto Computer Science & Mathematics graduate based in Toronto.
+
+I currently work on production cloud and automation systems in financial services, with experience across Python, AWS, Snowflake, Terraform, CI/CD, backend development, and AI-enabled workflows.
+
+Outside of work, I enjoy building projects involving automation, machine learning, data, and software systems.
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
+
+### 📈 StockAlertSystem
+
+An automated stock and ETF monitoring system that evaluates configurable technical-analysis rules and sends actionable alerts to Discord.
+
+* Built a **configuration-driven rules engine** for monitoring stocks and ETFs using indicators including RSI, 50/200-day moving averages, and 52-week highs.
+* Defined separate buy, sell-watch, trend-weakness, and drawdown conditions using composable `all` / `any` rule logic.
+* Automated market monitoring with **GitHub Actions**, retrieving price history through Yahoo Finance and evaluating conditions on scheduled runs.
+* Integrated **Discord webhooks** to deliver alerts and daily market open/close price summaries to a private channel.
+* Implemented persistent state, alert fingerprinting, and configurable cooldowns to prevent duplicate or excessive notifications.
+* Designed the system around YAML configuration so symbols, rule thresholds, data intervals, and messages can be changed without modifying application logic.
+* **Tech Stack:** Python, pandas, yfinance, GitHub Actions, Discord Webhooks, YAML, REST APIs
 
 ### 🏝️ Animal Crossing Villager Popularity Prediction & Recommender
-A personal machine learning system focused on predicting and recommending villagers in Animal Crossing: New Horizons.
-- Built a model to predict villager popularity using both categorical features and CLIP-based visual embeddings.
-- Implemented a similarity-based recommender that lets users input a few favorite villagers and get tailored suggestions.
-- Wrapped it all in a Streamlit app so users can explore and visualize both predictions and recommendations.
-- **Tech Stack:** Python, scikit-learn, OpenAI CLIP, Streamlit, pandas, NumPy
 
-### 📷 Cilindir (CSC301)
-A student-led university project built in collaboration with a startup aimed at improving remote collaboration using immersive VR and 3D reconstruction.
-- Collaborated with a team of 7 across three subteams: pose estimation, 3D reconstruction, and Unreal Engine.
-- On the 3D reconstruction team, I implemented a pipeline that transformed camera-based pose data into realistic 3D human models using PIFuHD.
-- The final goal: allow users to interact in virtual meetings as lifelike avatars rather than flat video tiles.
-- **Tech Stack:** Python, PyTorch, PIFuHD, COLMAP, OpenCV
+A machine learning application that predicts villager popularity and generates personalized recommendations for *Animal Crossing: New Horizons*.
+
+* Combined structured villager metadata with **CLIP image embeddings** to build multimodal popularity-prediction models.
+* Engineered preprocessing pipelines using categorical encoding, feature scaling, PCA, and visual embeddings.
+* Built a similarity-based recommendation system that generates suggestions from a user's favorite villagers.
+* Developed an interactive **Streamlit** application for exploring predictions, model configurations, and recommendations.
+* **Tech Stack:** Python, pandas, scikit-learn, CLIP, Streamlit, NumPy
+
+### 📷 Cilindir — 3D Reconstruction / VR
+
+A university software-engineering project developed in collaboration with a startup exploring immersive remote collaboration.
+
+* Worked in a team of 7 across pose estimation, 3D reconstruction, and Unreal Engine development.
+* Built part of a pipeline for transforming camera-based pose data into realistic 3D human models using **PIFuHD**.
+* Integrated computer-vision and 3D reconstruction tooling toward creating lifelike avatars for virtual meetings.
+* **Tech Stack:** Python, PyTorch, PIFuHD, COLMAP, OpenCV
+
+---
 
 ## 🛠️ Other Projects
 
-#### 📚 Bargain Bin Quizlet (CSC207)
-- A Java-based flashcard study app with user authentication, flashcard editing, public set search, and quizzes.  
-- Created in a team of 8 as part of CSC207 Software Design.
-- **Tech Stack:** Java
+### 📚 Bargain Bin Quizlet
 
-#### 🌱 ProtoPlant  
-- An Arduino-powered agricultural robot that monitors plant health (soil temp, humidity, light) and displays data via a web dashboard.  
-- **Tech Stack:** Python, Arduino, JavaScript, HTML/CSS
+A Java flashcard study application with authentication, flashcard management, public set discovery, and quizzes.
 
-#### 🎲 Chinese Checkers AI  
-- A high school project where I implemented an AI for playing Chinese Checkers using board evaluation and best-move selection.
-- **Tech Stack:** Java
+**Tech Stack:** Java
 
-#### 👽 Untitled Maze Game  
-- A 3D sci-fi horror game featuring raycasting, A* pathfinding, and a networked multiplayer mode.  
-- **Tech Stack:** Java
+### 🌱 ProtoPlant
 
-#### 💠 Square Run  
-- A 2D rhythm game inspired by Geometry Dash, complete with custom visuals, music, and procedurally generated levels.  
-- **Tech Stack:** Python, pygame
+An Arduino-powered agricultural robot that monitors soil temperature, humidity, and light conditions and displays measurements through a web dashboard.
 
-#### 🐐 Goatman's Game  
-- A horror-themed 2D platformer featuring a timed day/night cycle and spooky lore.
-- **Tech Stack:** Java
+**Tech Stack:** Python, Arduino, JavaScript, HTML/CSS
 
-Anyways, thanks for stopping by! Feel free to check out my repos or reach out if you're interested in collaboration. 😎👍
+### 🎲 Chinese Checkers AI
+
+A Java implementation of Chinese Checkers featuring an AI opponent using board evaluation and best-move selection.
+
+**Tech Stack:** Java
+
+### 👽 Untitled Maze Game
+
+A 3D sci-fi horror game featuring raycasting, A* pathfinding, and networked multiplayer.
+
+**Tech Stack:** Java
+
+---
+
+## 💻 Technologies
+
+**Languages:** Python, Java, SQL, JavaScript/TypeScript, C#, C++
+
+**Cloud & DevOps:** AWS, Terraform, GitLab CI/CD, GitHub Actions, Docker, Linux
+
+**Data & Backend:** Snowflake, PostgreSQL, MySQL, REST APIs, ETL & data pipelines
+
+**AI / ML:** Amazon Bedrock, SageMaker, Textract, Comprehend, scikit-learn, PyTorch, CLIP
+
+**Frontend:** React, Streamlit
+
+---
+
+## 📫 Connect
+
+* [LinkedIn](https://www.linkedin.com/in/anthony-chen-ca/)
+* [GitHub](https://github.com/anthony-chen-ca)
+
+Thanks for stopping by! 👋
