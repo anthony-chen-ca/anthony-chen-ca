@@ -12,9 +12,26 @@ Outside of work, I enjoy building projects involving automation, machine learnin
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📈 StockAlertSystem
+## 💰 PersonalFinanceApp
+
+**[PersonalFinanceApp](https://github.com/anthony-chen-ca/PersonalFinanceApp)** is a local-first personal finance platform I built to aggregate, organize, and analyze my financial data while keeping sensitive information under my control.
+
+It has evolved from a budgeting dashboard into a broader personal financial system with:
+
+- 🏦 **Account & transaction management** with Plaid synchronization and CSV imports
+- 🧠 **Rule-based + AI-assisted cleanup** for transaction categorization and merchant normalization
+- 🏪 **Canonical merchant management** with aliases, merge/split workflows, matching rules, and merchant logos
+- 📊 **Financial analytics** for spending, income, cash flow, savings rate, budgets, trends, and period-over-period insights
+- 🔁 **Recurring transaction detection** using cadence, merchant, and amount-pattern analysis
+- 📈 **Investment tracking** with RBC Direct Investing PDF statement imports, holdings, portfolio history, allocation, contributions, and investment income
+- 💵 **Monthly budgeting** with category-level progress and spending exclusions
+- 🔐 **Local-first architecture** with encrypted financial integration credentials and separate sandbox/production data
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · FastAPI · Python · SQLAlchemy · SQLite · Alembic · Plaid · Pydantic · Recharts · Pytest · Vitest
+
+## 📈 StockAlertSystem
 
 An automated stock and ETF monitoring system that evaluates configurable technical-analysis rules and sends actionable alerts to Discord.
 
@@ -26,7 +43,7 @@ An automated stock and ETF monitoring system that evaluates configurable technic
 * Designed the system around YAML configuration so symbols, rule thresholds, data intervals, and messages can be changed without modifying application logic.
 * **Tech Stack:** Python, pandas, yfinance, GitHub Actions, Discord Webhooks, YAML, REST APIs
 
-### 🏝️ Animal Crossing Villager Popularity Prediction & Recommender
+## 🏝️ Animal Crossing Villager Popularity Prediction & Recommender
 
 A machine learning application that predicts villager popularity and generates personalized recommendations for *Animal Crossing: New Horizons*.
 
@@ -36,7 +53,7 @@ A machine learning application that predicts villager popularity and generates p
 * Developed an interactive **Streamlit** application for exploring predictions, model configurations, and recommendations.
 * **Tech Stack:** Python, pandas, scikit-learn, CLIP, Streamlit, NumPy
 
-### 📷 Cilindir — 3D Reconstruction / VR
+## 📷 Cilindir — 3D Reconstruction / VR
 
 A university software-engineering project developed in collaboration with a startup exploring immersive remote collaboration.
 
@@ -47,27 +64,27 @@ A university software-engineering project developed in collaboration with a star
 
 ---
 
-## 🛠️ Other Projects
+# 🛠️ Other Projects
 
-### 📚 Bargain Bin Quizlet
+## 📚 Bargain Bin Quizlet
 
 A Java flashcard study application with authentication, flashcard management, public set discovery, and quizzes.
 
 **Tech Stack:** Java
 
-### 🌱 ProtoPlant
+## 🌱 ProtoPlant
 
 An Arduino-powered agricultural robot that monitors soil temperature, humidity, and light conditions and displays measurements through a web dashboard.
 
 **Tech Stack:** Python, Arduino, JavaScript, HTML/CSS
 
-### 🎲 Chinese Checkers AI
+## 🎲 Chinese Checkers AI
 
 A Java implementation of Chinese Checkers featuring an AI opponent using board evaluation and best-move selection.
 
 **Tech Stack:** Java
 
-### 👽 Untitled Maze Game
+## 👽 Untitled Maze Game
 
 A 3D sci-fi horror game featuring raycasting, A* pathfinding, and networked multiplayer.
 
@@ -75,7 +92,7 @@ A 3D sci-fi horror game featuring raycasting, A* pathfinding, and networked mult
 
 ---
 
-## 💻 Technologies
+# 💻 Technologies
 
 **Languages:** Python, Java, SQL, JavaScript/TypeScript, C#, C++
 
@@ -89,7 +106,7 @@ A 3D sci-fi horror game featuring raycasting, A* pathfinding, and networked mult
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 
 * [LinkedIn](https://www.linkedin.com/in/anthony-chen-ca/)
 * [GitHub](https://github.com/anthony-chen-ca)
