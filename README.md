@@ -16,7 +16,7 @@ Outside of work, I enjoy building projects involving automation, machine learnin
 
 ## 💰 PersonalFinanceApp
 
-PersonalFinanceApp is a local-first personal finance platform I built to aggregate, organize, and analyze my financial data while keeping sensitive information under my control.
+[PersonalFinanceApp](https://github.com/anthony-chen-ca/PersonalFinanceApp-Showcase) is a local-first personal finance platform I built to aggregate, organize, and analyze my financial data while keeping sensitive information under my control.
 
 It has evolved from a budgeting dashboard into a broader personal financial system with:
 
