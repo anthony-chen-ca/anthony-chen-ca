@@ -8,7 +8,7 @@ I'm a software engineer and University of Toronto Computer Science & Mathematics
 
 I currently work on production cloud and automation systems in financial services, with experience across Python, AWS, Snowflake, Terraform, CI/CD, backend development, and AI-enabled workflows.
 
-Outside of work, I enjoy building projects involving automation, machine learning, data, and software systems.
+Outside of work, I enjoy building projects involving automation, machine learning, data, and software systems. I also like playing games like Animal Crossing :)
 
 ---
 
